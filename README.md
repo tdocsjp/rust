@@ -10,17 +10,34 @@ Rust 公式ドキュメントの非公式日本語訳。[tdocsjp/website](https:
 
 ## 翻訳済み
 
+### 概要ページ
 - `stable/index.md` — https://doc.rust-lang.org/stable/
-- `stable/proc_macro/*` — 全27ページ（クレート索引・モジュール2つ・型/トレイト/関数/マクロ24項目）を完訳
 - `stable/std/index.md` — std クレートのトップページ
-- `stable/std/option/*`、`stable/std/result/*` — モジュール概要を全文翻訳（`Option`・`Result` 型の説明・慣用句・比較演算子など）
-- `stable/std/vec/*`、`stable/std/string/*` — モジュール概要 + 型の概要（メモリレイアウト・容量などの説明）を全文翻訳
-- `stable/std/collections/{struct.HashMap,hash_map/index}.md` — 要約
-- `stable/std/iter/trait.Iterator.md`、`stable/std/boxed/struct.Box.md`、`stable/std/rc/struct.Rc.md`、`stable/std/sync/struct.{Arc,Mutex}.md` — 要約
 
-いずれも、各メソッド単位の個別ドキュメント（100件超/型）は未着手。`Option`・`Result`・`Vec`・`String`・`HashMap` はモジュール/型の概要レベルでは完結しているが、`unwrap`・`push` のような個々のメソッドの説明・例は原文へのリンクのみ。
+### proc_macro（全27ページ完訳）
+`stable/proc_macro/**` — クレート索引・モジュール2つ（`token_stream`・`tracked`）・型/トレイト/関数/マクロ24項目のすべてを全文翻訳。
+
+### std のよく使う型・トレイト（モジュール/型の概要レベル）
+| 分類 | パス |
+|---|---|
+| Option / Result | `std/option/*`、`std/result/*`（全文翻訳） |
+| Vec / String | `std/vec/*`、`std/string/*`（全文翻訳） |
+| HashMap / HashSet / BTreeMap / VecDeque | `std/collections/*`（要約） |
+| Box / Rc / Arc | `std/boxed/struct.Box.md`、`std/rc/struct.Rc.md`、`std/sync/struct.Arc.md`（要約） |
+| Mutex / RwLock | `std/sync/struct.{Mutex,RwLock}.md`（要約） |
+| Cell / RefCell | `std/cell/struct.RefCell.md`（要約） |
+| Cow | `std/borrow/enum.Cow.md`（要約） |
+| Iterator | `std/iter/trait.Iterator.md`（要約） |
+| Path / PathBuf | `std/path/struct.Path.md`（要約） |
+| Duration / Instant | `std/time/struct.{Duration,Instant}.md`（要約） |
+| thread | `std/thread/index.md`（要約） |
+| Error | `std/error/trait.Error.md`（要約） |
+| From / Into | `std/convert/trait.From.md`（要約） |
+| Default | `std/default/trait.Default.md`（要約） |
+
+「全文翻訳」は原文の段落・コード例をそのまま翻訳したもの。「要約」は要点を日本語でまとめたもの（コード例は代表的なものに絞っている）。どちらも、各メソッド単位（`push`・`unwrap`・`lock` など）の個別の説明・例はまだなく、型/トレイトの概要レベルで止まっている。原文の個別ページへのリンクを各ファイル末尾に記載。
 
 ## 未翻訳
 
-`std` には上記以外に約2,000ページ（struct 546・fn 594・trait 233 など）があり、proc_macro（27ページ）の70倍以上の規模。必要になった型・ページから追加していく。
+上記以外に std には約2,000ページ（struct 546・fn 594・trait 233 など）がある。候補: `BTreeSet`、`Weak`、`Cell`（RefCell とは別に単体のページ）、`Ordering`/`PartialOrd`/`Ord`、`Clone`、`Debug`/`Display`、`Drop`、`Deref`、`env`・`fs`・`io`・`process`・`net` モジュール、`char`・`str` のプリミティブページなど。必要になった型・ページから追加していく。
 </content>

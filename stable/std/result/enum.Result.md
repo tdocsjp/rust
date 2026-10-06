@@ -30,4 +30,3 @@ pub enum Result<T, E> {
 ---
 
 本ページは [`std::result::Result` (stable)](https://doc.rust-lang.org/stable/std/result/enum.Result.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

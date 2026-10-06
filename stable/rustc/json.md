@@ -52,4 +52,3 @@ rustc の JSON 出力形式は、機械が読める診断情報・コンパイ�
 ---
 
 本ページは [JSON Output (stable)](https://doc.rust-lang.org/stable/rustc/json.html) の要約の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

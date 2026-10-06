@@ -67,4 +67,3 @@ assert_eq!(bytes, [240, 159, 146, 150]);
 ---
 
 本ページは [`std::string` (stable)](https://doc.rust-lang.org/stable/std/string/index.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

@@ -38,4 +38,3 @@ PGO は4つの手順からなります。
 ---
 
 本ページは [Profile-guided Optimization (stable)](https://doc.rust-lang.org/stable/rustc/profile-guided-optimization.html) の要約の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

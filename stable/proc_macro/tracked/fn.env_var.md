@@ -15,4 +15,3 @@ pub fn env_var<K: AsRef<OsStr> + AsRef<str>>(key: K) -> Result<String, VarError>
 ---
 
 本ページは [`proc_macro::tracked::env_var` (stable)](https://doc.rust-lang.org/stable/proc_macro/tracked/fn.env_var.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

@@ -77,4 +77,3 @@ Cargo は依存先の警告を抑制するためにこれを使っています�
 ---
 
 本ページは [Lint Levels (stable)](https://doc.rust-lang.org/stable/rustc/lints/levels.html) の要約の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

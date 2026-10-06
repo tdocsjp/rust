@@ -55,4 +55,3 @@ Rust は、そのターゲットが**ビルドでき、すべてのテストに�
 ---
 
 本ページは [Target Tier Policy (stable)](https://doc.rust-lang.org/stable/rustc/target-tier-policy.html) の要約の非公式日本語訳です。詳細な要件の全文は [doc.rust-lang.org](https://doc.rust-lang.org/stable/rustc/target-tier-policy.html) を参照してください。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

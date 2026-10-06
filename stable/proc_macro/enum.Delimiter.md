@@ -81,4 +81,3 @@ Any、Borrow、BorrowMut、CloneToUninit、From、Into、ToOwned、TryFrom、Try
 ---
 
 本ページは [`proc_macro::Delimiter` (stable)](https://doc.rust-lang.org/stable/proc_macro/enum.Delimiter.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

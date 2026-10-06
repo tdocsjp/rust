@@ -17,4 +17,3 @@ title: token_stream
 ---
 
 本ページは [`proc_macro::token_stream` (stable)](https://doc.rust-lang.org/stable/proc_macro/token_stream/index.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

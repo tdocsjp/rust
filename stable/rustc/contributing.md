@@ -15,4 +15,3 @@ rustc プロジェクトは貢献を歓迎しています。コンパイラの�
 ---
 
 本ページは [Contributing to `rustc` (stable)](https://doc.rust-lang.org/stable/rustc/contributing.html) の要約の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

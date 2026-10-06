@@ -53,4 +53,3 @@ pub struct IntoIter(/* private fields */);
 ---
 
 本ページは [`proc_macro::token_stream::IntoIter` (stable)](https://doc.rust-lang.org/stable/proc_macro/token_stream/struct.IntoIter.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

@@ -17,4 +17,3 @@ pub fn path<P: AsRef<Path>>(path: P)
 ---
 
 本ページは [`proc_macro::tracked::path` (stable)](https://doc.rust-lang.org/stable/proc_macro/tracked/fn.path.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

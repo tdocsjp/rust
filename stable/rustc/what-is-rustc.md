@@ -61,4 +61,3 @@ $ rustc main.rs
 ---
 
 本ページは [What is rustc? (stable)](https://doc.rust-lang.org/stable/rustc/what-is-rustc.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

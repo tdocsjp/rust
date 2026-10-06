@@ -57,4 +57,3 @@ B-Tree は、現代のアーキテクチャにおいて、二分探索木より�
 ---
 
 本ページは [`std::collections::BTreeMap` (stable)](https://doc.rust-lang.org/stable/std/collections/struct.BTreeMap.html) の要約の非公式日本語訳です。各メソッドの個別の説明文と例は [doc.rust-lang.org](https://doc.rust-lang.org/stable/std/collections/struct.BTreeMap.html) を参照してください。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

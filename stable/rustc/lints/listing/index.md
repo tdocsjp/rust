@@ -17,4 +17,3 @@ lint のレベルの設定方法や優先順位については[Lint レベル](.
 ---
 
 本ページは [Lint Listing (stable)](https://doc.rust-lang.org/stable/rustc/lints/listing/index.html) の概要の非公式日本語訳です。個別 lint の一覧・説明は [doc.rust-lang.org](https://doc.rust-lang.org/stable/rustc/lints/listing/index.html) を参照してください。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

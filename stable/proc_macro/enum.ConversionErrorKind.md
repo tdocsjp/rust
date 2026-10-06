@@ -87,4 +87,3 @@ impl StructuralPartialEq for ConversionErrorKind
 ---
 
 本ページは [`proc_macro::ConversionErrorKind` (stable)](https://doc.rust-lang.org/stable/proc_macro/enum.ConversionErrorKind.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

@@ -42,4 +42,3 @@ RwLock:  読み取り側は並行に進める。書き込み側だけがすべ�
 ---
 
 本ページは [`std::sync::RwLock` (stable)](https://doc.rust-lang.org/stable/std/sync/struct.RwLock.html) の要約の非公式日本語訳です。各メソッドの個別の説明文と例は [doc.rust-lang.org](https://doc.rust-lang.org/stable/std/sync/struct.RwLock.html) を参照してください。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

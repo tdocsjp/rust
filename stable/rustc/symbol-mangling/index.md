@@ -24,4 +24,3 @@ v0 形式の正確な文法仕様（詳細なエンコーディング規則）�
 ---
 
 本ページは [Symbol Mangling (stable)](https://doc.rust-lang.org/stable/rustc/symbol-mangling/index.html) の要約の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

@@ -37,4 +37,3 @@ Option・Result・Vec・String は原文を全文翻訳。他（HashMap・HashSe
 - The Book、Reference、Rust by Example、Nomicon、Clippy Book、Rustdoc Book、Style Guide、Edition Guide、Embedded Book、エラーコード一覧（518件）は未着手
 
 必要になった型・ページ・本から追加していく。
-</content>

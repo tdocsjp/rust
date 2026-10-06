@@ -44,4 +44,3 @@ clang -flto=thin -fuse-ld=lld -L . -l"rust-lib" -o main ./cmain.o
 ---
 
 本ページは [Linker-plugin-based LTO (stable)](https://doc.rust-lang.org/stable/rustc/linker-plugin-lto.html) の要約の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

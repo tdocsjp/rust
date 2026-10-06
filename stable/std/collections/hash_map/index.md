@@ -36,4 +36,3 @@ title: hash_map
 ---
 
 本ページは [`std::collections::hash_map` (stable)](https://doc.rust-lang.org/stable/std/collections/hash_map/index.html) の非公式日本語訳です。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>

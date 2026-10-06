@@ -27,4 +27,3 @@ rustc src/main.rs --target=wasm32-unknown-unknown
 ---
 
 本ページは [Targets (stable)](https://doc.rust-lang.org/stable/rustc/targets/index.html) の要約の非公式日本語訳です。ターゲットタプルの構成要素や Tier（1/2/3）制度については [Platform Support](../platform-support.html) を参照してください。原文の著作権は The Rust Project Developers に帰属し、MIT / Apache-2.0 のデュアルライセンスで提供されています。
-</content>
